@@ -30,6 +30,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>emids_jenkins-docker-example</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
